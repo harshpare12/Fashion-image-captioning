@@ -1,5 +1,5 @@
 # Fashion-image-captioning
 
-Harsh's laptop: Environment name: vision
-> conda activate vision
-(Python version 3.6)
+Harsh's laptop: Environment name: neuralnets1
+> conda activate neuralnets1
+(Python version 3.6.7)
